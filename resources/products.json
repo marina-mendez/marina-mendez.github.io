@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Botines FULBO FK1000",
+        "price": 3599.99,
+        "image": { "fields": { "file": { "url": "/images/botines-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Guantes de arquero FK14",
+        "price": 1569.99,
+        "image": { "fields": { "file": { "url": "/images/guantes.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Futsal FULBO Killers",
+        "price": 4599.99,
+        "image": { "fields": { "file": { "url": "/images/futsal-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Futsal FULBO FieldKings",
+        "price": 6399.99,
+        "image": { "fields": { "file": { "url": "/images/futsal-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Botines BestPlayer",
+        "price": 7699.99,
+        "image": { "fields": { "file": { "url": "/images/botines-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Botines FULBO Clash",
+        "price": 2099.99,
+        "image": { "fields": { "file": { "url": "/images/botines-5.jpg" } } }
+      }
+    },    
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Botines FULBO AirBending",
+        "price": 6099.99,
+        "image": { "fields": { "file": { "url": "/images/botines-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Canilleras FairPlay",
+        "price": 1549.99,
+        "image": { "fields": { "file": { "url": "/images/canilleras.jpg" } } }
+      }
+    }
+  ]
+}
